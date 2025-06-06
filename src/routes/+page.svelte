@@ -16,7 +16,14 @@
 	imageSrc="/sample.png"
 	generating
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by leaders in UK healthcare"
+	logoUrls={[
+		"https://logo.clearbit.com/livi.co.uk",
+		"https://logo.clearbit.com/hurleygroup.co.uk",
+		"https://logo.clearbit.com/practiceplusgroup.com"
+	]}
+/>
 
 <Summary
 	generating
