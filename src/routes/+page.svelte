@@ -11,7 +11,7 @@
 </script>
 
 <Hero
-	title="Hello World"
+	title="Krish Nerkar"
 	subtitle="Solutions that enhance user experience, and improve visual communication."
 	imageSrc="/sample.png"
 />
