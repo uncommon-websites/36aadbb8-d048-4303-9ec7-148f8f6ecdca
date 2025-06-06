@@ -11,7 +11,7 @@
 </script>
 
 <Hero
-	title="Krish Nerkar"
+	title="We're the best"
 	subtitle="Solutions that enhance user experience, and improve visual communication."
 	imageSrc="/sample.png"
 />
